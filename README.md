@@ -9,7 +9,6 @@
 <img style="" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47qrxnxw58tpsfgujmlm7mpt43wmyq8ck61ost6g25&rid=giphy.gif&ct=g" height="200">
 <center>
   
-#
 
 <div> 
   <a href="https://instagram.com/thaina_samp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
