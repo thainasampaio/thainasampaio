@@ -6,8 +6,7 @@
 - 📫 Contate-me: goesthaina18@gmail.com /📲(85) 98413-5685
 
 
-<img style="" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47qrxnxw58tpsfgujmlm7mpt43wmyq8ck61ost6g25&rid=giphy.gif&ct=g" height="200">
-<center>
+<p align = "center"><img style="" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47qrxnxw58tpsfgujmlm7mpt43wmyq8ck61ost6g25&rid=giphy.gif&ct=g" width="500"></p>
   
 
 <div> 
