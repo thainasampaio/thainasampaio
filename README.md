@@ -1,8 +1,8 @@
 ## Olá! Sou Thainá Sampaio 👋 ##
   
-- 🔭 Atualmente estou procurando emprego/estágio na área de desenvolvimento web
-- 🌱 Faço graduação em ADS
-- 👩‍💻 HTML, CSS, PHP, PYTHON, MYSQL 
+- 🔭 Segurança da Informação e Programação são minhas áreas de estudo atualmente
+- 🌱 Faço graduação em Análise e Desenvolvimento de Sistemas
+- 👩‍💻 HTML, CSS, PHP, PYTHON, C, MYSQL 
 - 📫 Contate-me: goesthaina18@gmail.com /📲(85) 98413-5685
 
 
