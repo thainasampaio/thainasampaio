@@ -5,9 +5,7 @@
 
 
 
-<p align = "center"><iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen </iframe><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p> width="500">
-</p>
-  
+<iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
 
 <div align = "center"> 
   <a href="https://www.linkedin.com/in/thainá-goes-3049371b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
