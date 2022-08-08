@@ -4,10 +4,11 @@
 - 👩‍💻 HTML, CSS, PHP, C, PYTHON, MYSQL.
 
 
-<p align = "center"><img style="" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47qrxnxw58tpsfgujmlm7mpt43wmyq8ck61ost6g25&rid=giphy.gif&ct=g" width="500"></p>
+
+<p align = "center"><img style="" src="https://giphy.com/gifs/xonOzxf2M8hNu" width="500"></p>
   
-- 📫 Contate-me: 
-<div align = "left"> 
+
+<div align = "center"> 
   <a href="https://www.linkedin.com/in/thainá-goes-3049371b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
