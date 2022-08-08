@@ -1,9 +1,8 @@
-## Olá! Sou Thainá Sampaio 👋 ##
+### Olá!👋 ###
   
 - 🔭 Segurança da Informação e Programação são minhas áreas de estudo atualmente
-- 🌱 Faço graduação em Análise e Desenvolvimento de Sistemas
-- 👩‍💻 HTML, CSS, PHP, PYTHON, MYSQL 
-- 📫 Contate-me: goesthaina18@gmail.com /📲(85) 98413-5685
+- 👩‍💻 HTML, CSS, PHP, C, PYTHON, MYSQL 
+- 📫 Contate-me: https://www.linkedin.com/in/thain%C3%A1-goes-3049371b8/
 
 
 <p align = "center"><img style="" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47qrxnxw58tpsfgujmlm7mpt43wmyq8ck61ost6g25&rid=giphy.gif&ct=g" width="500"></p>
